@@ -29,6 +29,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+
     <meta charset="UTF-8">
     <title>와이파이 정보 구하기</title>
     <style>
